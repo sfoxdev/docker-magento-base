@@ -1,0 +1,16 @@
+
+version: "2"
+
+services:
+    magento-base:
+      container_name: magento-base
+      build: .
+      image: sfoxdev/magento-base
+      restart: always
+      ports:
+        - "80:80"
+      volumes:
+        - magento-data:/root/magento-data
+
+volumes:
+  magento-data:
