@@ -1,6 +1,6 @@
 # Magento2
 
-Magento 2.1.8 container based on Ubuntu 16.04 + Apache 2.4 + PHP 7.0.22 and installed with Composer
+Magento 2.1.9 container based on Ubuntu 16.04 + Apache 2.4 + PHP 7.0.22 and installed with Composer
 
 [![Docker Build Status](https://img.shields.io/docker/build/sfoxdev/magento-base.svg?style=flat-square)]()
 [![Docker Build Status](https://img.shields.io/docker/automated/sfoxdev/magento-base.svg?style=flat-square)]()
